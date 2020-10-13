@@ -5,7 +5,7 @@
   "main": "printer.js",
   "scripts": {
     "test": "jest",
-    "test-cover": "istanbul cover ./printer.spec.js"
+    "test-coverage": "jest --coverage"
   },
   "repository": {
     "type": "git",
