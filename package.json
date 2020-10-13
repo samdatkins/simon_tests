@@ -4,7 +4,8 @@
   "description": "[![Coverage Status](https://coveralls.io/repos/github/samdatkins/simon_tests/badge.svg?branch=main)](https://coveralls.io/github/samdatkins/simon_tests?branch=main)",
   "main": "printer.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test-cover": "istanbul cover ./printer.spec.js"
   },
   "repository": {
     "type": "git",
