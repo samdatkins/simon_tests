@@ -1,0 +1,22 @@
+{
+  "name": "simon_tests",
+  "version": "1.0.0",
+  "description": "[![Coverage Status](https://coveralls.io/repos/github/samdatkins/simon_tests/badge.svg?branch=main)](https://coveralls.io/github/samdatkins/simon_tests?branch=main)",
+  "main": "printer.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samdatkins/simon_tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samdatkins/simon_tests/issues"
+  },
+  "homepage": "https://github.com/samdatkins/simon_tests#readme",
+  "dependencies": {
+    "jest": "^26.5.3"
+  }
+}
